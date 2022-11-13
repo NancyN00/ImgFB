@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711651529607",
+    "project_id": "imgfirebase-c4620",
+    "storage_bucket": "imgfirebase-c4620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711651529607:android:c3db9ff0fd51bcb6c7f922",
+        "android_client_info": {
+          "package_name": "com.example.imgfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711651529607-32blapb7cucdaap1onhrsc3tlofuir7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC45NWcWYNvjULRT96DbqWRTqdJgoIS7v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711651529607-32blapb7cucdaap1onhrsc3tlofuir7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
